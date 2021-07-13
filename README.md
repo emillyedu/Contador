@@ -1,6 +1,6 @@
 # Contador
 
-Contador feito com HTML, CSS e Javascript
+Contador básico feito com HTML, CSS e Javascript
 
 ## Comportamento
 
